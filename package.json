@@ -2,7 +2,7 @@
   "name": "tasks-list",
   "version": "0.1.0",
   "private": false,
-  "homepage": ".",
+  "homepage": "https://estebane035.github.io/react-tasks-list",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
